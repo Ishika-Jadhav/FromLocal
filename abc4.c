@@ -3,6 +3,7 @@
 int Addition(int No1,int No2)
 {
     int Result = 0;
+    int A = 0;
     Result = No1 + No2;
     return Result;
 }
